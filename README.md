@@ -1,7 +1,7 @@
 # display-calibration
 A python script that generates display calibration images
 
-The script takes two arguments, resolution (width height) and filetype (jpg or png). 
+The script takes two arguments, resolution (width height) and filetype (jpg or png). The outputted outputs are rendered into a folder called _renders_ at the location of the py script. 
 
 The following call will generate the below images:
 
